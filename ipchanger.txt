@@ -1,0 +1,11 @@
+Return error codes are:
+
+70
+67
+91
+91
+
+Detail information;
+
+https://docs.microsoft.com/windows/desktop/CIMWin32Prov/setdynamicdnsregistration-method-in-class-win32-networkadapterconfiguration
+

@@ -1,0 +1,91 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/phptps/kadr-02.svg</file>
+    <file>images/phptps/lamp-barax-07-roshan-roshan.svg</file>
+    <file>images/phptps/lamp-02-02-roshan.svg</file>
+    <file>images/phptps/alarm on-01.svg</file>
+    <file>images/phptps/alarm off-01.svg</file>
+    <file>images/phptps/AC-left-07-roshan.svg</file>
+    <file>images/phptps/AC-Rait-07-roshan.svg</file>
+    <file>images/phptps/lamp-barax-07-roshan.svg</file>
+    <file>phptps/iconha-22.svg</file>
+    <file>phptps/iconha-23.svg</file>
+    <file>phptps/iconha-24.svg</file>
+    <file>phptps/iconha-25.svg</file>
+    <file>phptps/iconha-26.svg</file>
+    <file>phptps/iconha-27.svg</file>
+    <file>phptps/alarmha-17.svg</file>
+    <file>phptps/alarmha-18.svg</file>
+    <file>phptps/alarmha-19.svg</file>
+    <file>phptps/alarmha-20.svg</file>
+    <file>phptps/alarmha-21.svg</file>
+    <file>phptps/alarmha-12.svg</file>
+    <file>phptps/alarmha-13.svg</file>
+    <file>phptps/alarmha-14.svg</file>
+    <file>phptps/alarmha-15.svg</file>
+    <file>phptps/alarmha-16.svg</file>
+    <file>phptps/kadrnew-12.svg</file>
+    <file>phptps/iconsetting-11.svg</file>
+    <file>phptps/iconsetting-08.svg</file>
+    <file>phptps/iconsetting-09.svg</file>
+    <file>phptps/iconsetting-10.svg</file>
+    <file>phptps/display-voltage-06.svg</file>
+    <file>phptps/display-voltage-02.svg</file>
+    <file>phptps/display-voltage-03.svg</file>
+    <file>phptps/display-voltage-04.svg</file>
+    <file>phptps/display-voltage-05.svg</file>
+    <file>generator icon.svg</file>
+    <file>phptps/panele-bozotg-temp-07.svg</file>
+    <file>phptps/AC-Rait-07.svg</file>
+    <file>phptps/AC-left-07.svg</file>
+    <file>phptps/lamp-barax-07.svg</file>
+    <file>phptps/tama-sanj-07.svg</file>
+    <file>phptps/rotobat-07.svg</file>
+    <file>phptps/panel-setting-07.svg</file>
+    <file>phptps/setting.svg</file>
+    <file>kadr-02.svg</file>
+    <file>rak-01.svg</file>
+    <file>phptps/alarm off-01.svg</file>
+    <file>phptps/alarm on-01.svg</file>
+    <file>phptps/DC off-01.svg</file>
+    <file>phptps/DC on-01.svg</file>
+    <file>phptps/entry off-01.svg</file>
+    <file>phptps/entry on-01.svg</file>
+    <file>phptps/frame 1-01.svg</file>
+    <file>phptps/frame 2 off-01-01.svg</file>
+    <file>phptps/frame 2 on-01-01.svg</file>
+    <file>phptps/frame 2-01.svg</file>
+    <file>phptps/frame Setting-01.svg</file>
+    <file>phptps/frame Temp-01-01.svg</file>
+    <file>phptps/frame T-H-01.svg</file>
+    <file>phptps/generator off 2-01.svg</file>
+    <file>phptps/generator off-01.svg</file>
+    <file>phptps/generator on 2-01.svg</file>
+    <file>phptps/generator on-01.svg</file>
+    <file>phptps/humudity-02-02.svg</file>
+    <file>phptps/Icon Conect-01.svg</file>
+    <file>phptps/Icon Conect-01-01.svg</file>
+    <file>phptps/Icon Diconect-01.svg</file>
+    <file>phptps/lamp-02-02.svg</file>
+    <file>phptps/light off-01.svg</file>
+    <file>phptps/light on-01.svg</file>
+    <file>phptps/line deraz-02-02.svg</file>
+    <file>phptps/line kutah-02.svg</file>
+    <file>phptps/line kutah-02-02.svg</file>
+    <file>phptps/motion off 2-01.svg</file>
+    <file>phptps/motion off-01.svg</file>
+    <file>phptps/motion on 2-01.svg</file>
+    <file>phptps/motion on-01.svg</file>
+    <file>phptps/smoke off-01.svg</file>
+    <file>phptps/smoke off2-01.svg</file>
+    <file>phptps/smoke on 2-01.svg</file>
+    <file>phptps/smoke on-01.svg</file>
+    <file>phptps/temp off-01.svg</file>
+    <file>phptps/temp on-01.svg</file>
+    <file>phptps/Temp rak-01.svg</file>
+    <file>phptps/temp red-02.svg</file>
+    <file>phptps/temp red-02-02.svg</file>
+    <file>phptps/temp-02-02.svg</file>
+    <file>phptps/T-H-01.svg</file>
+  </qresource>
+</RCC>

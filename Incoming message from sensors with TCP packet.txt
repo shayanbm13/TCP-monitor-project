@@ -1,0 +1,5 @@
+
+phase1: 0,phase2: 0,phase3: 0,generator: 0,smoke: 0,door: 0,motion: 0,voltage1: 220,voltage2: 220,voltage3: 220,current1: 12,current2: 10,current3: 30,split_current: 25,current_temp1: 27,set_temp1: 30,current_hum1: 35,set_hum1: 40,current_temp2: 25,set_temp2: 30,current_hum2: 25,set_hum2: 30,current_temp3: 25,set_temp3: 30,current_temp4: 25,set_temp4: 30,light: 0,split: 0
+
+
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 95" style="enable-background:new 0 0 95 95;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.7;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{opacity:0.5;}
+	.st2{fill:#FF8888;}
+	.st3{opacity:0.7;fill:#2E2923;}
+	.st4{opacity:0.7;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000000198325188045928200000006475892233420375987_);}
+	.st7{fill:#FF0000;}
+	.st8{fill:#2E2923;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000050639191004694685410000001290647870997948338_);}
+	.st10{fill:#FFFFFF;}
+	.st11{font-family:'Prompt-Regular';}
+	.st12{font-size:11px;}
+	.st13{fill:#303030;}
+	.st14{font-size:22.5305px;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="53.25" x2="91" y2="53.25">
+		<stop  offset="0" style="stop-color:#13375C"/>
+		<stop  offset="1" style="stop-color:#151E37"/>
+	</linearGradient>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" d="M22,85.75h58c6.08,0,11-4.92,11-11v-43
+		c0-6.08-4.92-11-11-11H22c-6.08,0-11,4.92-11,11v43C11,80.83,15.92,85.75,22,85.75z"/>
+	<g>
+		<text transform="matrix(0.9821 0 0 1 14.3631 65.7686)"><tspan x="0" y="0" class="st10 st11 st12">Temperture Rise</tspan><tspan x="16.68" y="13.2" class="st10 st11 st12">Warning!</tspan></text>
+	</g>
+	<path class="st7" d="M29.73,34.1H6.27c-1.75,0-2.84-1.89-1.96-3.4l5.46-9.46l6.27-10.86c0.87-1.51,3.05-1.51,3.93,0l6.55,11.35
+		l5.18,8.96C32.57,32.21,31.47,34.1,29.73,34.1z"/>
+	<path class="st8" d="M30.82,31.2L19.09,10.89c-0.33-0.57-0.87-0.63-1.09-0.63c-0.22,0-0.76,0.06-1.09,0.63L5.18,31.2
+		c-0.33,0.57-0.11,1.07,0,1.26c0.11,0.19,0.44,0.63,1.09,0.63h23.46c0.66,0,0.98-0.44,1.09-0.63C30.93,32.27,31.15,31.77,30.82,31.2
+		z M30.31,32.17c-0.09,0.15-0.26,0.34-0.58,0.34H6.27c-0.32,0-0.5-0.18-0.58-0.34c-0.09-0.15-0.16-0.4,0-0.68l11.73-20.32
+		c0.16-0.28,0.41-0.34,0.58-0.34c0.18,0,0.42,0.06,0.58,0.34L30.31,31.5C30.48,31.77,30.4,32.02,30.31,32.17z"/>
+	<g>
+		<text transform="matrix(0.9821 0 0 1 15.4551 31.0223)" class="st13 st11 st14">!</text>
+	</g>
+	<g>
+		<path class="st10" d="M53.32,38.78v-9.67c0-1.34-1.11-2.43-2.48-2.43s-2.48,1.09-2.48,2.43v9.86C46.89,39.86,46,41.42,46,43.11
+			c0,2.69,2.24,4.89,5,4.89s5-2.19,5-4.89C56,41.29,54.95,39.62,53.32,38.78z M51,47.21c-2.31,0-4.19-1.84-4.19-4.1
+			c0-1.48,0.82-2.85,2.14-3.57l0.21-0.11V29.11c0-0.9,0.75-1.64,1.68-1.64s1.68,0.74,1.68,1.64v10.17l0.23,0.11
+			c1.49,0.67,2.45,2.13,2.45,3.73C55.19,45.37,53.31,47.21,51,47.21z"/>
+		<path class="st10" d="M51.44,40.58v-8.13h-1.34v8.18c-1.09,0.32-1.88,1.31-1.88,2.48c0,1.43,1.19,2.59,2.65,2.59
+			c1.46,0,2.65-1.16,2.65-2.59C53.52,41.87,52.63,40.83,51.44,40.58z"/>
+		<rect x="53.76" y="29.01" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="30.3" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="31.56" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="32.85" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="34.12" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="35.41" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="36.68" class="st10" width="2.24" height="0.72"/>
+		<rect x="53.76" y="37.97" class="st10" width="2.24" height="0.72"/>
+	</g>
+</g>
+</svg>
