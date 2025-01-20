@@ -12,5 +12,5 @@ www.linkedin.com/in/shayan-bayat-mokhtari-169261259
 
 shayanbm13@gmail.com
 
-![Alt text](Image_1)
-![Alt text](Image_2)
+![Alt text](Image_1.png)
+![Alt text](Image_2.png)
